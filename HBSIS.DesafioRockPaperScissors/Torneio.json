@@ -1,0 +1,12 @@
+{
+	"torneio":
+			
+			{
+				"jogo":[
+							{"nome" :"Armando","tipo":"P"},
+							{"nome" :"Dave","tipo":"S"}
+					]
+			}
+
+
+}
